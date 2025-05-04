@@ -1,3 +1,4 @@
+                                                ----- SEARCH CONCEPTS -----
 Agent:
     Entity that percieves its environment and acts upon that environment
 
